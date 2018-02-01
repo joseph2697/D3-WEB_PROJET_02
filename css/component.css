@@ -28,6 +28,7 @@
 .cbp-so-section p {
 	font-size: 2em;
 	font-weight: 300;
+font-family: 'PT Sans', sans-serif;
 }
 
 /* Sides */
@@ -131,4 +132,3 @@
 		max-width: 100%;
 	}
 }
-
